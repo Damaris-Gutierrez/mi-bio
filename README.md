@@ -4,7 +4,7 @@ Mi biografía
 ## Habilidades en programación
 Conocimientos en:
 - Python (Automatización de tareas repetitivas, creación de programas sencillos con entrada y salida de datos)
-- SQL ()
+- SQL (Creación de tablas, registros y consultas sencillas de base de datos)
 - Java (Uso de estructuras de control, creación de programas sencillos con entrada y salida de datos)
 - HTML (Creación de páginas web básicas con estructura y formato)
 
